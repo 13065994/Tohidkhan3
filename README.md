@@ -133,9 +133,9 @@ ___This Tool is Free Enjoy Dear User.___</br>
 
 <br>
 <p align="center">
-<img src="__scr__/Tohid_01.png"/>
-<img src="__scr__/Tohid_02.png"/>
-<img src="__scr__/Tohid_03.png"/>
+<img src="/Tohid_01.png"/>
+<img src="/Tohid_02.png"/>
+<img src="/Tohid_03.png"/>
 </p>
 
 
