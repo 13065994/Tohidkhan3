@@ -129,10 +129,13 @@ important 👇 for you
 
 ___This Tool is Free Enjoy Dear User.___</br>
 
-## SCREENSHOT :
+### RANDOM CLONING SCREENSHOT :
+
 <br>
 <p align="center">
-<img src="__scr__/tohid3.jpg"/>
+<img src="__scr__/Tohid_01.png"/>
+<img src="__scr__/Tohid_02.png"/>
+<img src="__scr__/Tohid_03.png"/>
 </p>
 
 
